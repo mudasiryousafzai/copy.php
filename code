@@ -1,0 +1,1 @@
+<?php copy('fie-to-download-url', 'file-name-with-extension');?>
